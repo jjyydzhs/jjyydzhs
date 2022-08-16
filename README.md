@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjyydzhs
 - 👀 I’m interested in Java project
-- 🌱 I’m currently learning java sql about
+- 🌱 I’m currently learning java sql related
 - 💞️ I’m looking to collaborate on a free project
 - 📫 If you want to reach me ,you can try to send email to zouwenxiang93@163.com
 
